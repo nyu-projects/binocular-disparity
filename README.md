@@ -1,6 +1,6 @@
 # Computing Binocular Disparity with Convolutional Neural Networks and Conditional Random Fields
 
-This is a code repository for computing binocular disparity with a combination of Convolutional Neural Networks and Conditional Random Fields. The disparity model requires **zero labeled training examples**. A pre-trained ImageNet CNN is used for feature extraction. This project was assembled for Joan Bruna's 2018 NYU course "Inference and Representation." in a team of 2 (Ambuj Ojha and Reuben Feinman). For a full project description, see our poster at the following link which won the Best poster award in the course and was selected to be displayed at an NYU event.
+This is a code repository for computing binocular disparity with a combination of Convolutional Neural Networks and Conditional Random Fields. The disparity model requires **zero labeled training examples**. A pre-trained ImageNet CNN is used for feature extraction. This project was assembled for Joan Bruna's 2018 NYU course "Inference and Representation." in a team of 2 (Ambuj Ojha and Reuben Feinman). For a full project description, see our poster at the following link which won the Best Poster award in the course and was selected to be displayed at an NYU event.
 
 <http://www.cns.nyu.edu/~reuben/files/Poster-BinocularDisparity.pdf>
 
